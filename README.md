@@ -17,6 +17,8 @@ To address these challenges, I consulted Dr. Hatem Zurob, Head of the Materials 
 
 ![Test of induced-flaw hexagon deformation strength](Assets/sole_sample_bend.jpg)
 
+*A small sample including a "flawed" hexagon pattern, increasing the load capacity of the material and design*
+
 ## The Final Result
 
 The Sole-Survivor is an attachable shoe sole that conforms to the ground below it, ensuring that the user experiences a 'flat' surface at all times. It achieves this by compressing and adapting to the shape of objects beneath it while maintaining a level surface on top.
@@ -25,6 +27,10 @@ The sole features a simple attachment system that maximizes contact between the 
 
 ![High Fidelity Prototype](Assets/sole_final.jpg)
 
+*The High Fidelity Prototype that was used to demonstrate the capabilities of the sole*
+
 Future plans for the Sole-Survivor include offering shoes with the sole integrated directly into the design, as well as further enhancing the attachment system to make it customizable for different shoe sizes and tailored to individual body weights.
 
 ![Future Design](Assets/sole_future.png)
+
+*A concept of what the sole may look like when integrated directly into shoes*
