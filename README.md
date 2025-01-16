@@ -7,7 +7,7 @@ The initial concept for the Sole-Survivor was highly complex: integrating spring
 
 Although foam insoles are commonplace, we discovered a gap in the market for soles that actively deform to match ground contours. Our research revealed no existing solutions of this nature, but we drew inspiration from Adidas’ lattice-structured shoes, which demonstrated significant potential for similar applications. This insight led us to adopt a horizontally stacked hexagonal pattern, chosen for its structural integrity and compatibility with 3D printing without additional supports.
 
-![Mini Prototype](sole_grey_mini.png)
+![Mini Prototype](Assets/sole_grey_mini.png)
 
 *Our first low fidelity prototype of the concept behind the sole*
 
@@ -15,7 +15,7 @@ Our initial prototypes employed Soft-PLA and a basic hexagonal configuration. Ho
 
 To address these challenges, I consulted Dr. Hatem Zurob, Head of the Materials Department and a renowned expert in structural materials. Dr. Zurob introduced a patterning technique that enhances structural stress capacity by incorporating diverse polygonal geometries. This insight informed the development of a new design iteration, marking a significant step forward in the Sole-Survivor's evolution.
 
-![Test of induced-flaw hexagon deformation strength](sole_sample_bend.jpg)
+![Test of induced-flaw hexagon deformation strength](Assets/sole_sample_bend.jpg)
 
 ## The Final Result
 
@@ -23,8 +23,8 @@ The Sole-Survivor is an attachable shoe sole that conforms to the ground below i
 
 The sole features a simple attachment system that maximizes contact between the shoe and the sole, eliminating any flopping during use. The design includes an easy-to-use squeeze-button fastening mechanism and is compatible with various shoe sizes.
 
-![High Fidelity Prototype](sole_final.jpg)
+![High Fidelity Prototype](Assets/sole_final.jpg)
 
 Future plans for the Sole-Survivor include offering shoes with the sole integrated directly into the design, as well as further enhancing the attachment system to make it customizable for different shoe sizes and tailored to individual body weights.
 
-![Future Design](sole_future.png)
+![Future Design](Assets/sole_future.png)
